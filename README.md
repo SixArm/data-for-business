@@ -5,5 +5,5 @@ Our work-in-progress data data files for:
   * Company
   * NAICS: North American Industry Classification System 
   * Stock Exchange
-
+  * Designated Market Area (DMA)
   

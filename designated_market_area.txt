@@ -1,0 +1,20 @@
+# Designated Market Area
+
+A designated market area (DMA) is a geographic region where the
+population can receive the same (or similar) television and radio
+station offerings, and may also include other types of media including
+newspapers and Internet content.
+
+A.k.a. Television Market Area (FCC term), media market, broadcast
+market, media region, or simply market.
+
+DMAs can coincide or overlap with 1 or more metropolitan areas, though
+rural regions with few significant population centers can also be
+designated as markets. Conversely, very large metropolitan areas can
+sometimes be subdivided into multiple segments. Market regions may
+overlap, meaning that people residing on the edge of one media market
+may be able to receive content from other nearby markets. They are
+widely used in audience measurements, which are compiled in the United
+States by Nielsen Media Research (television) and Arbitron (radio).
+
+See https://en.wikipedia.org/wiki/Designated_Market_Area
