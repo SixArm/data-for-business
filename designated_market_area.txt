@@ -18,3 +18,6 @@ widely used in audience measurements, which are compiled in the United
 States by Nielsen Media Research (television) and Arbitron (radio).
 
 See https://en.wikipedia.org/wiki/Designated_Market_Area
+
+Our data comes from the 2011-2012 results here:
+http://www.frandocs.com/DMA-map.htm

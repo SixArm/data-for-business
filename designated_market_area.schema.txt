@@ -8,8 +8,8 @@ Rank of the DMA ordered by population
 E.g. 1 is typically New York Metro Area
 integer, unique
 
-population
-Count of people are in the DMA
+people
+Count of people in the TV homes - not the general population
 E.g. 7387810 people are in the New York DMA
 integer
 
