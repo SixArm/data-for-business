@@ -1,0 +1,24 @@
+name_en
+Name in English
+E.g. New York Stock Exchange
+Unique
+
+abbr_en
+Abbreviation in English
+E.g. NYSE
+Unique Key
+
+country
+Country of Headquarters
+E.g. US
+Key
+Ideally use ISO code
+
+city
+City of Headquarters
+E.g. New York City
+Key
+
+
+
+

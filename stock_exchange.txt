@@ -1,0 +1,14 @@
+# Stock Exchange
+
+A.k.a. Security Exchange
+
+See https://en.wikipedia.org/wiki/List_of_stock_exchanges
+
+Examples:
+
+  * New York Stock Exchange | NYSE | US | New York City
+
+  * Tokyo Stock Exchange | TSE | Japan | Tokyo
+
+  * London Stock Exchange | LSE | UK | London
+
