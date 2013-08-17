@@ -1,10 +1,10 @@
 num
 Reference number
 E.g. 541511 indicates Software programming services
-Unique
+string, unique
 
-name_en
+name
 Name in English
 E.g. "Software programming services"
-Unique
+string, unique
 

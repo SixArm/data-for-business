@@ -1,35 +1,40 @@
 name_en
 Name in English.
 E.g. "The Acme Widget Company, Inc."
+string
 
 abbr_en
 Abbreviation in English.
 E.g. "Acme Widget"
+string
 
 domain_en
 Internet domain name in English.
 E.g. "acme.com"
+string
 
-stock_exchange_id
+stock_exchange
 Stock exchange reference.
 E.g. Id for New York Stock Exchange.
+id
 
 stock_symbol
 Stock ticker symbol, typically all uppercase.
 E.g. "ACME".
-Unique per stock exchange.
+string, unique per stock_exchange
 
 duns
 Data Universal Numbering System (D-U-N-S).
-E.g. 123456789
-Unique. Reference.
+E.g. "123456789"
+string, unique
 This is a unique 9-digit number for each physical location.
 This is assigned by the Dun & Bradstreet (D&B) company.
+The number may begin with "0" so we encode it as a string.
 
 ein
 Employer Identification Number (EIN).
 E.g. "12-3456789"
-Unique. Reference.
+string, unique
 Unique 9-digit number formatted as a string with a hypen.
 Assigned by the U.S. Internal Revenue Service (IRS).
 See https://en.wikipedia.org/wiki/Employer_identification_number 
@@ -37,5 +42,5 @@ See https://en.wikipedia.org/wiki/Employer_identification_number
 naisc
 North American Industry Classification System (NAISC).
 E.g. 541511 indicates Software programming services
-Reference.
+integer, key
 See https://en.wikipedia.org/wiki/NAICS

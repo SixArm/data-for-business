@@ -1,9 +1,9 @@
 num
 The 2-digit reference number
-Not Sequential
 E.g. 51 indicates "Information"
+integer, unique
 
 name_en
 Name in English
-Not Unique
 E.g. "Information"
+string

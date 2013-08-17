@@ -1,23 +1,22 @@
 name_en
 Name in English
 E.g. New York Stock Exchange
-Unique
+string, unique
 
 abbr_en
 Abbreviation in English
 E.g. NYSE
-Unique Key
+string, unique
 
 country
 Country of Headquarters
 E.g. US
-Key
-Ideally use ISO code
+string, key
 
 city
 City of Headquarters
 E.g. New York City
-Key
+string, key
 
 
 
