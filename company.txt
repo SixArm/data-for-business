@@ -5,4 +5,3 @@ A typical company that we can use in typical applications.
 The schema is not thorough; you will likely want to add to it for your own applications.
 
 
-

@@ -6,15 +6,3 @@ The name is able to have duplicates; for example,
 the NAICS sector number 31 and number 32 both are
 named "Manufacturing".
 
-See these:
-
-  https://en.wikipedia.org/wiki/North_American_Industry_Classification_System
-
-  https://en.wikipedia.org/wiki/North_American_Product_Classification_System
-
-  https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
-
-  https://en.wikipedia.org/wiki/Thomson_Reuters_Business_Classification
-
-
-
