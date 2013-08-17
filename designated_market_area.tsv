@@ -27,8 +27,8 @@ Buffalo	51	645190
 Burlington-Plattsburgh	95	323750
 Butte-Bozeman	189	66910
 Casper-Riverton	196	56460
-Cedar Rapids-Wtrlo-IWC&Dub	89	344150
-Champaign&Sprngfld-Decatur	82	386160
+Cedar Rapids-Wtrlo-IWC-Dub	89	344150
+Champaign-Sprngfld-Decatur	82	386160
 Charleston-Huntington	65	465030
 Charleston SC	98	311260
 Charlotte	25	1140900
@@ -87,7 +87,7 @@ Helena	206	28050
 Honolulu	71	434730
 Houston	10	2185260
 Huntsville-Decatur (Flor)	80	394010
-Idaho Fals-Pocatllo(Jcksn)	160	128940
+Idaho Fals-Pocatllo (Jcksn)	160	128940
 Indianapolis	26	1109970
 Jackson MS	93	334530
 Jackson TN	176	94650
@@ -122,7 +122,7 @@ Meridian	186	70190
 Miami-Ft. Lauderdale	16	1583800
 Milwaukee	34	907660
 Minneapolis-St. Paul	15	1721940
-Minot-Bsmrck-Dcknsn(Wlstn)	152	145480
+Minot-Bsmrck-Dcknsn (Wlstn)	152	145480
 Missoula	165	114590
 Mobile-Pensacola (Ft Walt)	60	527930
 Monroe-El Dorado	137	177410
@@ -173,7 +173,7 @@ Seattle-Tacoma	12	1811420
 Sherman-Ada	161	128790
 Shreveport	83	386150
 Sioux City	147	157060
-Sioux Falls(Mitchell)	113	261530
+Sioux Falls (Mitchell)	113	261530
 South Bend-Elkhart	97	322090
 Spokane	73	426690
 Springfield-Holyoke	114	257080
@@ -191,7 +191,7 @@ Tri-Cities TN-VA	96	323640
 Tucson (Sierra Vista)	70	442020
 Tulsa	59	529100
 Twin Falls	191	65800
-Tyler-Longview(Lfkn&Ncgd)	107	271400
+Tyler-Longview (Lfkn-Ncgd)	107	271400
 Utica	172	104750
 Victoria	204	31540
 Waco-Temple-Bryan	88	353190
