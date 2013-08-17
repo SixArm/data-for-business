@@ -1,0 +1,41 @@
+name_en
+Name in English.
+E.g. "The Acme Widget Company, Inc."
+
+abbr_en
+Abbreviation in English.
+E.g. "Acme Widget"
+
+domain_en
+Internet domain name in English.
+E.g. "acme.com"
+
+stock_exchange_id
+Stock exchange reference.
+E.g. Id for New York Stock Exchange.
+
+stock_symbol
+Stock ticker symbol, typically all uppercase.
+E.g. "ACME".
+Unique per stock exchange.
+
+duns
+Data Universal Numbering System (D-U-N-S).
+E.g. 123456789
+Unique. Reference.
+This is a unique 9-digit number for each physical location.
+This is assigned by the Dun & Bradstreet (D&B) company.
+
+ein
+Employer Identification Number (EIN).
+E.g. "12-3456789"
+Unique. Reference.
+Unique 9-digit number formatted as a string with a hypen.
+Assigned by the U.S. Internal Revenue Service (IRS).
+See https://en.wikipedia.org/wiki/Employer_identification_number 
+
+naisc
+North American Industry Classification System (NAISC).
+E.g. 541511 indicates Software programming services
+Reference.
+See https://en.wikipedia.org/wiki/NAICS
