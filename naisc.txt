@@ -1,0 +1,19 @@
+# NAICS: North American Industry Classification System 
+
+The NAICS numbering system employs a six-digit number code 
+to categories industry levels:.
+
+  * The first two digits designate the business sector.
+
+  * The third digit designates the business subsector.
+
+  * The fourth digit designates the industry group.
+
+  * The fifth digit designates the NAICS industries.
+
+  * The sixth digit designates the national industries.
+
+The first five digits are generally (although not always strictly)
+the same in all three countries. 
+
+
