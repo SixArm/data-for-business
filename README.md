@@ -3,7 +3,7 @@
 Our work-in-progress data data files for:
 
   * Company
-  * NAICS: North American Industry Classification System 
+  * North American Industry Classification System (NAICS)
   * Stock Exchange
   * Designated Market Area (DMA)
   
