@@ -1,4 +1,4 @@
-# SixArm.com » Data » <br> Business data & schemas
+# Data » <br> Business data & schemas
 
 Our data so far:
 
